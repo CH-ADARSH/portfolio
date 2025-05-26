@@ -145,7 +145,11 @@ a {
 .hero-section-description {
   margin-top: 1rem;
   width: 70%;
-  font-weight: 500;
+  /* font-weight: 500; */
+}
+.hero-section-description h4 {
+  font-weight: 300;
+  text-align: justify;
 }
 .button {
   display: flex;
