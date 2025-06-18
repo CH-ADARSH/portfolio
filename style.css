@@ -194,7 +194,13 @@ a {
   color: black;
   box-shadow: #ef3232;
 }
-
+.btn a {
+  list-style: none;
+  color: white;
+}
+.btn a:hover {
+  color: black;
+}
 /* btn2 */
 .btn2 {
   background-color: #ef3232;
@@ -480,14 +486,14 @@ a {
   margin-left: 120px;
   background-image: url(./images/projects/luffy.png);
 }
-#project3 {
+/* #project3 {
   background-image: url(./images/projects/Project3.png);
 }
 #project4 {
   margin-left: 120px;
 
   background-image: url(./images/projects/Project2.png);
-}
+} */
 /* responsive */
 /* @media (max-width: 458px) {
   .page-header {
