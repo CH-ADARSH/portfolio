@@ -195,7 +195,7 @@ a {
   box-shadow: #ef3232;
 }
 .btn a {
-  list-style: none;
+  /* list-style: none; */
   color: white;
 }
 .btn a:hover {
